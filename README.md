@@ -70,41 +70,6 @@ dentro todos seus códigos, sendo cada exercício separado por arquivo `.js`!
 - Ter Internet
 
 
-## Meta
-
-Como teve uma busca enorme e em no máximo 4 dias estamos chegando em 100 inscritos<br>
-**a meta ATUAL agora é 200 alunos e para isso adicionarei alguns sorteios no curso!**
-
-**E o valor é de R$35 POR MÓDULO.**
-
-
-<br>
-<br>
-
-## Início
-
-**Dia 15 de Agosto de 2017.**
-
-
-<br>
-<br>
-
-## Inscrição
-
-Para se inscrever basta abrir uma issue nesse repositório com seus seguintes dados:
-
-Email
-Facebook/Twitter
-Telegram
-
-<br>
-<br>
-
-<hr>
-
-<br>
-<br>
-
 
 
 ## Antes do Curso
