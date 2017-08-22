@@ -61,6 +61,9 @@ dentro todos seus códigos, sendo cada exercício separado por arquivo `.js`!
 
 **POR FAVOR teste seu código com Node.js ANTES DE ENVIAR!**
 
+Depois crie aqui nesse repositório uma ISSUE com o título sendo seu apelido aqui no<br>
+Github e dentro dela coloque o link do seu repositório ou dos seus [gists](https://gist.github.com/).
+
 
 ## Pré-requisitos
 
